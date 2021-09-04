@@ -93,10 +93,25 @@
         <itemInstances>
             <componentInstance>
                 <componentInstanceProperties>
+
                     <name>animations</name>
                     <value>true</value>
                 </componentInstanceProperties>
                 <componentName>PictureGalleryCard</componentName>
+
+                    <name>entityNames</name>
+                    <valueList>
+                        <valueListItems>
+                            <value>Property__c</value>
+                        </valueListItems>
+                    </valueList>
+                </componentInstanceProperties>
+                <componentInstanceProperties>
+                    <name>maxRecords</name>
+                    <value>3</value>
+                </componentInstanceProperties>
+                <componentName>flexipage:recentItems</componentName>
+
             </componentInstance>
         </itemInstances>
         <itemInstances>
