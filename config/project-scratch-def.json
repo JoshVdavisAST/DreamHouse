@@ -1,7 +1,8 @@
 {
   "orgName": "DreamHouse Realty",
   "edition": "Developer",
-  "features": ["enableSetPasswordInApi"],
+  "features": ["EnableSetPasswordInApi"],
+
   "settings": {
     "lightningExperienceSettings": {
       "enableS1DesktopEnabled": true
